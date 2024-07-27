@@ -1,0 +1,14 @@
+@using Basics.ModelExpressionProvider
+@model List<Employee>
+
+<div class="display">
+    Index 3
+    @foreach (Employee emp in Model)
+    {
+        <div class="lead">
+            <h6>@emp.Fullname</h6>
+            <p>@emp.Id</p>
+            <p><strong>Age:</strong> @emp.Age</p>
+        </div>
+    }
+</div>

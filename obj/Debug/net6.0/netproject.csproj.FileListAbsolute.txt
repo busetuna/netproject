@@ -28,3 +28,4 @@ C:\Users\Buse\netproject\obj\Debug\net6.0\refint\netproject.dll
 C:\Users\Buse\netproject\obj\Debug\net6.0\netproject.pdb
 C:\Users\Buse\netproject\obj\Debug\net6.0\netproject.genruntimeconfig.cache
 C:\Users\Buse\netproject\obj\Debug\net6.0\ref\netproject.dll
+C:\Users\Buse\netproject\obj\Debug\net6.0\netproject.sourcelink.json
